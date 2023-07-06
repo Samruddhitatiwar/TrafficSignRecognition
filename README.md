@@ -22,14 +22,17 @@ have been collected by the team and later augmentation was performed.
 
 1)After running the flask_upload_display_iamge.py file-
 
-<img width="855" alt="image" src="https://user-images.githubusercontent.com/87266475/236659419-dbed2e05-cb88-4283-92ef-09c30e6d5a7b.png">
+<img width="960" alt="image" src="https://github.com/Samruddhitatiwar/TrafficSignRecognition/assets/87266475/4bb17f65-c204-45cb-9db8-d88e3b053e79">
+
 
 2)It will ask the user to upload image-
 
-<img width="685" alt="image" src="https://user-images.githubusercontent.com/87266475/236659459-ed11ee90-be18-47b5-b721-418eb2c65aa6.png">
+<img width="960" alt="image" src="https://github.com/Samruddhitatiwar/TrafficSignRecognition/assets/87266475/b63ebef3-daba-4784-9999-a650834daec9">
+
 
 3)Output-
 
-<img width="679" alt="image" src="https://user-images.githubusercontent.com/87266475/236659539-18574f57-269f-4d65-a58e-8b16ce8f0223.png">
+<img width="960" alt="image" src="https://github.com/Samruddhitatiwar/TrafficSignRecognition/assets/87266475/1d21edc2-1374-4723-8730-8a74ef6cfa7a">
+
 
 4)Click on reset button to go back
